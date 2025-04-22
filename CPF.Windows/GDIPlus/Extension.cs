@@ -23,7 +23,6 @@ namespace CPF.GDIPlus
             return new System.Drawing.PointF((float)p.X, (float)p.Y);
         }
 
-
         public static DashStyles ToDashStyles(this System.Drawing.Drawing2D.DashStyle d)
         {
             return (DashStyles)(int)d;

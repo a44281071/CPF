@@ -1,6 +1,17 @@
-# CPF
+# CPF - Forward!
 
-#### 介绍
+
+
+## 改进介绍
+
+基于较新技术，模仿现代化框架，从各方面向他们接近。
+
+从程序入口、约定、配置、Fluent 代码，各种方向，尽量的简化和现代代码写法。
+
+
+
+#### CPF 介绍
+
 C#跨平台UI框架
 
 提供NETStandard2.0和net4的库，通过Netcore可以跨平台，支持Windows、Mac、Linux，Net4的可以支持XP。各个平台运行效果一致，不依赖系统控件。<br/>
@@ -25,10 +36,10 @@ C#跨平台UI框架
  **Apache License 2.0** 
 
 #### 软件架构
+
 软件架构说明
 
 CPF为主要框架，CPF.Skia为用skia做图形适配，CPF.Windows、CPF.Linux、CPF.Mac、CPF.Android为各个平台的适配器
-
 
 #### 使用说明
 
@@ -52,14 +63,13 @@ https://gitee.com/csharpui/cpf.vlc  使用CPF对vlc的封装，跨平台视频�
 
 ### Nugets
 
-| Packages |           Version                       |
-|----------|-----------------------------------------|
-| Xhm.CPF  | [![NuGet Status](https://img.shields.io/nuget/v/Xhm.CPF.svg?style=flat)](https://www.nuget.org/packages/Xhm.CPF/)|
-| Xhm.CPF.Windows | [![NuGet Status](https://img.shields.io/nuget/v/Xhm.CPF.Windows.svg?style=flat)](https://www.nuget.org/packages/Xhm.CPF.Windows/)|
-| Xhm.CPF.Skia | [![NuGet Status](https://img.shields.io/nuget/v/Xhm.CPF.Skia.svg?style=flat)](https://www.nuget.org/packages/Xhm.CPF.Skia/)|
-| Xhm.CPF.Linux | [![NuGet Status](https://img.shields.io/nuget/v/Xhm.CPF.Linux.svg?style=flat)](https://www.nuget.org/packages/Xhm.CPF.Linux/)|
-| Xhm.CPF.Mac | [![NuGet Status](https://img.shields.io/nuget/v/Xhm.CPF.Mac.svg?style=flat)](https://www.nuget.org/packages/Xhm.CPF.Mac/)|
-
+| Packages        | Version                                                                                                                           |
+| --------------- | --------------------------------------------------------------------------------------------------------------------------------- |
+| Xhm.CPF         | [![NuGet Status](https://img.shields.io/nuget/v/Xhm.CPF.svg?style=flat)](https://www.nuget.org/packages/Xhm.CPF/)                 |
+| Xhm.CPF.Windows | [![NuGet Status](https://img.shields.io/nuget/v/Xhm.CPF.Windows.svg?style=flat)](https://www.nuget.org/packages/Xhm.CPF.Windows/) |
+| Xhm.CPF.Skia    | [![NuGet Status](https://img.shields.io/nuget/v/Xhm.CPF.Skia.svg?style=flat)](https://www.nuget.org/packages/Xhm.CPF.Skia/)       |
+| Xhm.CPF.Linux   | [![NuGet Status](https://img.shields.io/nuget/v/Xhm.CPF.Linux.svg?style=flat)](https://www.nuget.org/packages/Xhm.CPF.Linux/)     |
+| Xhm.CPF.Mac     | [![NuGet Status](https://img.shields.io/nuget/v/Xhm.CPF.Mac.svg?style=flat)](https://www.nuget.org/packages/Xhm.CPF.Mac/)         |
 
 #### 参与贡献
 
@@ -70,9 +80,9 @@ https://gitee.com/csharpui/cpf.vlc  使用CPF对vlc的封装，跨平台视频�
 <img src="https://gitee.com/csharpui/CPF/raw/master/Other/weixin.png" title="微信">
 <img src="https://gitee.com/csharpui/CPF/raw/master/Other/zhifubao.png" title="支付宝">
 
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+1. Fork 本仓库
+2. 新建 Feat_xxx 分支
+3. 提交代码
+4. 新建 Pull Request
 
 QQ群：894952004

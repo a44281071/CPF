@@ -14,7 +14,7 @@ namespace AndroidTest
 {
 	
 	
-	[global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Android.Build.Tasks", "1.0.0.0")]
+	[global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Android.Build.Tasks", "13.2.2.120")]
 	public partial class Resource
 	{
 		
@@ -25,209 +25,6 @@ namespace AndroidTest
 		
 		public static void UpdateIdValues()
 		{
-			global::CPF.Android.Resource.Attribute.alpha = global::AndroidTest.Resource.Attribute.alpha;
-			global::CPF.Android.Resource.Attribute.coordinatorLayoutStyle = global::AndroidTest.Resource.Attribute.coordinatorLayoutStyle;
-			global::CPF.Android.Resource.Attribute.font = global::AndroidTest.Resource.Attribute.font;
-			global::CPF.Android.Resource.Attribute.fontProviderAuthority = global::AndroidTest.Resource.Attribute.fontProviderAuthority;
-			global::CPF.Android.Resource.Attribute.fontProviderCerts = global::AndroidTest.Resource.Attribute.fontProviderCerts;
-			global::CPF.Android.Resource.Attribute.fontProviderFetchStrategy = global::AndroidTest.Resource.Attribute.fontProviderFetchStrategy;
-			global::CPF.Android.Resource.Attribute.fontProviderFetchTimeout = global::AndroidTest.Resource.Attribute.fontProviderFetchTimeout;
-			global::CPF.Android.Resource.Attribute.fontProviderPackage = global::AndroidTest.Resource.Attribute.fontProviderPackage;
-			global::CPF.Android.Resource.Attribute.fontProviderQuery = global::AndroidTest.Resource.Attribute.fontProviderQuery;
-			global::CPF.Android.Resource.Attribute.fontStyle = global::AndroidTest.Resource.Attribute.fontStyle;
-			global::CPF.Android.Resource.Attribute.fontVariationSettings = global::AndroidTest.Resource.Attribute.fontVariationSettings;
-			global::CPF.Android.Resource.Attribute.fontWeight = global::AndroidTest.Resource.Attribute.fontWeight;
-			global::CPF.Android.Resource.Attribute.keylines = global::AndroidTest.Resource.Attribute.keylines;
-			global::CPF.Android.Resource.Attribute.layout_anchor = global::AndroidTest.Resource.Attribute.layout_anchor;
-			global::CPF.Android.Resource.Attribute.layout_anchorGravity = global::AndroidTest.Resource.Attribute.layout_anchorGravity;
-			global::CPF.Android.Resource.Attribute.layout_behavior = global::AndroidTest.Resource.Attribute.layout_behavior;
-			global::CPF.Android.Resource.Attribute.layout_dodgeInsetEdges = global::AndroidTest.Resource.Attribute.layout_dodgeInsetEdges;
-			global::CPF.Android.Resource.Attribute.layout_insetEdge = global::AndroidTest.Resource.Attribute.layout_insetEdge;
-			global::CPF.Android.Resource.Attribute.layout_keyline = global::AndroidTest.Resource.Attribute.layout_keyline;
-			global::CPF.Android.Resource.Attribute.statusBarBackground = global::AndroidTest.Resource.Attribute.statusBarBackground;
-			global::CPF.Android.Resource.Attribute.ttcIndex = global::AndroidTest.Resource.Attribute.ttcIndex;
-			global::CPF.Android.Resource.Color.browser_actions_bg_grey = global::AndroidTest.Resource.Color.browser_actions_bg_grey;
-			global::CPF.Android.Resource.Color.browser_actions_divider_color = global::AndroidTest.Resource.Color.browser_actions_divider_color;
-			global::CPF.Android.Resource.Color.browser_actions_text_color = global::AndroidTest.Resource.Color.browser_actions_text_color;
-			global::CPF.Android.Resource.Color.browser_actions_title_color = global::AndroidTest.Resource.Color.browser_actions_title_color;
-			global::CPF.Android.Resource.Color.notification_action_color_filter = global::AndroidTest.Resource.Color.notification_action_color_filter;
-			global::CPF.Android.Resource.Color.notification_icon_bg_color = global::AndroidTest.Resource.Color.notification_icon_bg_color;
-			global::CPF.Android.Resource.Color.ripple_material_light = global::AndroidTest.Resource.Color.ripple_material_light;
-			global::CPF.Android.Resource.Color.secondary_text_default_material_light = global::AndroidTest.Resource.Color.secondary_text_default_material_light;
-			global::CPF.Android.Resource.Dimension.browser_actions_context_menu_max_width = global::AndroidTest.Resource.Dimension.browser_actions_context_menu_max_width;
-			global::CPF.Android.Resource.Dimension.browser_actions_context_menu_min_padding = global::AndroidTest.Resource.Dimension.browser_actions_context_menu_min_padding;
-			global::CPF.Android.Resource.Dimension.compat_button_inset_horizontal_material = global::AndroidTest.Resource.Dimension.compat_button_inset_horizontal_material;
-			global::CPF.Android.Resource.Dimension.compat_button_inset_vertical_material = global::AndroidTest.Resource.Dimension.compat_button_inset_vertical_material;
-			global::CPF.Android.Resource.Dimension.compat_button_padding_horizontal_material = global::AndroidTest.Resource.Dimension.compat_button_padding_horizontal_material;
-			global::CPF.Android.Resource.Dimension.compat_button_padding_vertical_material = global::AndroidTest.Resource.Dimension.compat_button_padding_vertical_material;
-			global::CPF.Android.Resource.Dimension.compat_control_corner_material = global::AndroidTest.Resource.Dimension.compat_control_corner_material;
-			global::CPF.Android.Resource.Dimension.compat_notification_large_icon_max_height = global::AndroidTest.Resource.Dimension.compat_notification_large_icon_max_height;
-			global::CPF.Android.Resource.Dimension.compat_notification_large_icon_max_width = global::AndroidTest.Resource.Dimension.compat_notification_large_icon_max_width;
-			global::CPF.Android.Resource.Dimension.notification_action_icon_size = global::AndroidTest.Resource.Dimension.notification_action_icon_size;
-			global::CPF.Android.Resource.Dimension.notification_action_text_size = global::AndroidTest.Resource.Dimension.notification_action_text_size;
-			global::CPF.Android.Resource.Dimension.notification_big_circle_margin = global::AndroidTest.Resource.Dimension.notification_big_circle_margin;
-			global::CPF.Android.Resource.Dimension.notification_content_margin_start = global::AndroidTest.Resource.Dimension.notification_content_margin_start;
-			global::CPF.Android.Resource.Dimension.notification_large_icon_height = global::AndroidTest.Resource.Dimension.notification_large_icon_height;
-			global::CPF.Android.Resource.Dimension.notification_large_icon_width = global::AndroidTest.Resource.Dimension.notification_large_icon_width;
-			global::CPF.Android.Resource.Dimension.notification_main_column_padding_top = global::AndroidTest.Resource.Dimension.notification_main_column_padding_top;
-			global::CPF.Android.Resource.Dimension.notification_media_narrow_margin = global::AndroidTest.Resource.Dimension.notification_media_narrow_margin;
-			global::CPF.Android.Resource.Dimension.notification_right_icon_size = global::AndroidTest.Resource.Dimension.notification_right_icon_size;
-			global::CPF.Android.Resource.Dimension.notification_right_side_padding_top = global::AndroidTest.Resource.Dimension.notification_right_side_padding_top;
-			global::CPF.Android.Resource.Dimension.notification_small_icon_background_padding = global::AndroidTest.Resource.Dimension.notification_small_icon_background_padding;
-			global::CPF.Android.Resource.Dimension.notification_small_icon_size_as_large = global::AndroidTest.Resource.Dimension.notification_small_icon_size_as_large;
-			global::CPF.Android.Resource.Dimension.notification_subtext_size = global::AndroidTest.Resource.Dimension.notification_subtext_size;
-			global::CPF.Android.Resource.Dimension.notification_top_pad = global::AndroidTest.Resource.Dimension.notification_top_pad;
-			global::CPF.Android.Resource.Dimension.notification_top_pad_large_text = global::AndroidTest.Resource.Dimension.notification_top_pad_large_text;
-			global::CPF.Android.Resource.Drawable.filedialog_folder_l = global::AndroidTest.Resource.Drawable.filedialog_folder_l;
-			global::CPF.Android.Resource.Drawable.filedialog_folder_m = global::AndroidTest.Resource.Drawable.filedialog_folder_m;
-			global::CPF.Android.Resource.Drawable.filedialog_folder_s = global::AndroidTest.Resource.Drawable.filedialog_folder_s;
-			global::CPF.Android.Resource.Drawable.filedialog_folder_up_l = global::AndroidTest.Resource.Drawable.filedialog_folder_up_l;
-			global::CPF.Android.Resource.Drawable.filedialog_folder_up_m = global::AndroidTest.Resource.Drawable.filedialog_folder_up_m;
-			global::CPF.Android.Resource.Drawable.filedialog_folder_up_s = global::AndroidTest.Resource.Drawable.filedialog_folder_up_s;
-			global::CPF.Android.Resource.Drawable.filedialog_root_l = global::AndroidTest.Resource.Drawable.filedialog_root_l;
-			global::CPF.Android.Resource.Drawable.filedialog_root_m = global::AndroidTest.Resource.Drawable.filedialog_root_m;
-			global::CPF.Android.Resource.Drawable.filedialog_root_s = global::AndroidTest.Resource.Drawable.filedialog_root_s;
-			global::CPF.Android.Resource.Drawable.ic_about = global::AndroidTest.Resource.Drawable.ic_about;
-			global::CPF.Android.Resource.Drawable.ic_launcher = global::AndroidTest.Resource.Drawable.ic_launcher;
-			global::CPF.Android.Resource.Drawable.notification_action_background = global::AndroidTest.Resource.Drawable.notification_action_background;
-			global::CPF.Android.Resource.Drawable.notification_bg = global::AndroidTest.Resource.Drawable.notification_bg;
-			global::CPF.Android.Resource.Drawable.notification_bg_low = global::AndroidTest.Resource.Drawable.notification_bg_low;
-			global::CPF.Android.Resource.Drawable.notification_bg_low_normal = global::AndroidTest.Resource.Drawable.notification_bg_low_normal;
-			global::CPF.Android.Resource.Drawable.notification_bg_low_pressed = global::AndroidTest.Resource.Drawable.notification_bg_low_pressed;
-			global::CPF.Android.Resource.Drawable.notification_bg_normal = global::AndroidTest.Resource.Drawable.notification_bg_normal;
-			global::CPF.Android.Resource.Drawable.notification_bg_normal_pressed = global::AndroidTest.Resource.Drawable.notification_bg_normal_pressed;
-			global::CPF.Android.Resource.Drawable.notification_icon_background = global::AndroidTest.Resource.Drawable.notification_icon_background;
-			global::CPF.Android.Resource.Drawable.notification_template_icon_bg = global::AndroidTest.Resource.Drawable.notification_template_icon_bg;
-			global::CPF.Android.Resource.Drawable.notification_template_icon_low_bg = global::AndroidTest.Resource.Drawable.notification_template_icon_low_bg;
-			global::CPF.Android.Resource.Drawable.notification_tile_bg = global::AndroidTest.Resource.Drawable.notification_tile_bg;
-			global::CPF.Android.Resource.Drawable.notify_panel_notification_icon_bg = global::AndroidTest.Resource.Drawable.notify_panel_notification_icon_bg;
-			global::CPF.Android.Resource.Id.actions = global::AndroidTest.Resource.Id.actions;
-			global::CPF.Android.Resource.Id.action_container = global::AndroidTest.Resource.Id.action_container;
-			global::CPF.Android.Resource.Id.action_divider = global::AndroidTest.Resource.Id.action_divider;
-			global::CPF.Android.Resource.Id.action_image = global::AndroidTest.Resource.Id.action_image;
-			global::CPF.Android.Resource.Id.action_text = global::AndroidTest.Resource.Id.action_text;
-			global::CPF.Android.Resource.Id.all = global::AndroidTest.Resource.Id.all;
-			global::CPF.Android.Resource.Id.async = global::AndroidTest.Resource.Id.async;
-			global::CPF.Android.Resource.Id.blocking = global::AndroidTest.Resource.Id.blocking;
-			global::CPF.Android.Resource.Id.bottom = global::AndroidTest.Resource.Id.bottom;
-			global::CPF.Android.Resource.Id.browser_actions_header_text = global::AndroidTest.Resource.Id.browser_actions_header_text;
-			global::CPF.Android.Resource.Id.browser_actions_menu_items = global::AndroidTest.Resource.Id.browser_actions_menu_items;
-			global::CPF.Android.Resource.Id.browser_actions_menu_item_icon = global::AndroidTest.Resource.Id.browser_actions_menu_item_icon;
-			global::CPF.Android.Resource.Id.browser_actions_menu_item_text = global::AndroidTest.Resource.Id.browser_actions_menu_item_text;
-			global::CPF.Android.Resource.Id.browser_actions_menu_view = global::AndroidTest.Resource.Id.browser_actions_menu_view;
-			global::CPF.Android.Resource.Id.center = global::AndroidTest.Resource.Id.center;
-			global::CPF.Android.Resource.Id.center_horizontal = global::AndroidTest.Resource.Id.center_horizontal;
-			global::CPF.Android.Resource.Id.center_vertical = global::AndroidTest.Resource.Id.center_vertical;
-			global::CPF.Android.Resource.Id.chronometer = global::AndroidTest.Resource.Id.chronometer;
-			global::CPF.Android.Resource.Id.clip_horizontal = global::AndroidTest.Resource.Id.clip_horizontal;
-			global::CPF.Android.Resource.Id.clip_vertical = global::AndroidTest.Resource.Id.clip_vertical;
-			global::CPF.Android.Resource.Id.end = global::AndroidTest.Resource.Id.end;
-			global::CPF.Android.Resource.Id.fill = global::AndroidTest.Resource.Id.fill;
-			global::CPF.Android.Resource.Id.fill_horizontal = global::AndroidTest.Resource.Id.fill_horizontal;
-			global::CPF.Android.Resource.Id.fill_vertical = global::AndroidTest.Resource.Id.fill_vertical;
-			global::CPF.Android.Resource.Id.forever = global::AndroidTest.Resource.Id.forever;
-			global::CPF.Android.Resource.Id.icon = global::AndroidTest.Resource.Id.icon;
-			global::CPF.Android.Resource.Id.icon_group = global::AndroidTest.Resource.Id.icon_group;
-			global::CPF.Android.Resource.Id.info = global::AndroidTest.Resource.Id.info;
-			global::CPF.Android.Resource.Id.italic = global::AndroidTest.Resource.Id.italic;
-			global::CPF.Android.Resource.Id.left = global::AndroidTest.Resource.Id.left;
-			global::CPF.Android.Resource.Id.line1 = global::AndroidTest.Resource.Id.line1;
-			global::CPF.Android.Resource.Id.line3 = global::AndroidTest.Resource.Id.line3;
-			global::CPF.Android.Resource.Id.none = global::AndroidTest.Resource.Id.none;
-			global::CPF.Android.Resource.Id.normal = global::AndroidTest.Resource.Id.normal;
-			global::CPF.Android.Resource.Id.notification_background = global::AndroidTest.Resource.Id.notification_background;
-			global::CPF.Android.Resource.Id.notification_main_column = global::AndroidTest.Resource.Id.notification_main_column;
-			global::CPF.Android.Resource.Id.notification_main_column_container = global::AndroidTest.Resource.Id.notification_main_column_container;
-			global::CPF.Android.Resource.Id.right = global::AndroidTest.Resource.Id.right;
-			global::CPF.Android.Resource.Id.right_icon = global::AndroidTest.Resource.Id.right_icon;
-			global::CPF.Android.Resource.Id.right_side = global::AndroidTest.Resource.Id.right_side;
-			global::CPF.Android.Resource.Id.start = global::AndroidTest.Resource.Id.start;
-			global::CPF.Android.Resource.Id.tag_transition_group = global::AndroidTest.Resource.Id.tag_transition_group;
-			global::CPF.Android.Resource.Id.tag_unhandled_key_event_manager = global::AndroidTest.Resource.Id.tag_unhandled_key_event_manager;
-			global::CPF.Android.Resource.Id.tag_unhandled_key_listeners = global::AndroidTest.Resource.Id.tag_unhandled_key_listeners;
-			global::CPF.Android.Resource.Id.text = global::AndroidTest.Resource.Id.text;
-			global::CPF.Android.Resource.Id.text2 = global::AndroidTest.Resource.Id.text2;
-			global::CPF.Android.Resource.Id.time = global::AndroidTest.Resource.Id.time;
-			global::CPF.Android.Resource.Id.title = global::AndroidTest.Resource.Id.title;
-			global::CPF.Android.Resource.Id.top = global::AndroidTest.Resource.Id.top;
-			global::CPF.Android.Resource.Integer.status_bar_notification_info_maxnum = global::AndroidTest.Resource.Integer.status_bar_notification_info_maxnum;
-			global::CPF.Android.Resource.Layout.browser_actions_context_menu_page = global::AndroidTest.Resource.Layout.browser_actions_context_menu_page;
-			global::CPF.Android.Resource.Layout.browser_actions_context_menu_row = global::AndroidTest.Resource.Layout.browser_actions_context_menu_row;
-			global::CPF.Android.Resource.Layout.notification_action = global::AndroidTest.Resource.Layout.notification_action;
-			global::CPF.Android.Resource.Layout.notification_action_tombstone = global::AndroidTest.Resource.Layout.notification_action_tombstone;
-			global::CPF.Android.Resource.Layout.notification_template_custom_big = global::AndroidTest.Resource.Layout.notification_template_custom_big;
-			global::CPF.Android.Resource.Layout.notification_template_icon_group = global::AndroidTest.Resource.Layout.notification_template_icon_group;
-			global::CPF.Android.Resource.Layout.notification_template_part_chronometer = global::AndroidTest.Resource.Layout.notification_template_part_chronometer;
-			global::CPF.Android.Resource.Layout.notification_template_part_time = global::AndroidTest.Resource.Layout.notification_template_part_time;
-			global::CPF.Android.Resource.String.action_settings = global::AndroidTest.Resource.String.action_settings;
-			global::CPF.Android.Resource.String.app_name = global::AndroidTest.Resource.String.app_name;
-			global::CPF.Android.Resource.String.btn_cancel = global::AndroidTest.Resource.String.btn_cancel;
-			global::CPF.Android.Resource.String.btn_ok = global::AndroidTest.Resource.String.btn_ok;
-			global::CPF.Android.Resource.String.hello_world = global::AndroidTest.Resource.String.hello_world;
-			global::CPF.Android.Resource.String.status_bar_notification_info_overflow = global::AndroidTest.Resource.String.status_bar_notification_info_overflow;
-			global::CPF.Android.Resource.String.tag_fragment_FileSave = global::AndroidTest.Resource.String.tag_fragment_FileSave;
-			global::CPF.Android.Resource.String.tag_fragment_FileSelect = global::AndroidTest.Resource.String.tag_fragment_FileSelect;
-			global::CPF.Android.Resource.String.tag_save_hint = global::AndroidTest.Resource.String.tag_save_hint;
-			global::CPF.Android.Resource.String.tag_title_OpenFile = global::AndroidTest.Resource.String.tag_title_OpenFile;
-			global::CPF.Android.Resource.String.tag_title_SaveFile = global::AndroidTest.Resource.String.tag_title_SaveFile;
-			global::CPF.Android.Resource.Style.TextAppearance_Compat_Notification = global::AndroidTest.Resource.Style.TextAppearance_Compat_Notification;
-			global::CPF.Android.Resource.Style.TextAppearance_Compat_Notification_Info = global::AndroidTest.Resource.Style.TextAppearance_Compat_Notification_Info;
-			global::CPF.Android.Resource.Style.TextAppearance_Compat_Notification_Line2 = global::AndroidTest.Resource.Style.TextAppearance_Compat_Notification_Line2;
-			global::CPF.Android.Resource.Style.TextAppearance_Compat_Notification_Time = global::AndroidTest.Resource.Style.TextAppearance_Compat_Notification_Time;
-			global::CPF.Android.Resource.Style.TextAppearance_Compat_Notification_Title = global::AndroidTest.Resource.Style.TextAppearance_Compat_Notification_Title;
-			global::CPF.Android.Resource.Style.Widget_Compat_NotificationActionContainer = global::AndroidTest.Resource.Style.Widget_Compat_NotificationActionContainer;
-			global::CPF.Android.Resource.Style.Widget_Compat_NotificationActionText = global::AndroidTest.Resource.Style.Widget_Compat_NotificationActionText;
-			global::CPF.Android.Resource.Style.Widget_Support_CoordinatorLayout = global::AndroidTest.Resource.Style.Widget_Support_CoordinatorLayout;
-			global::CPF.Android.Resource.Styleable.ColorStateListItem = global::AndroidTest.Resource.Styleable.ColorStateListItem;
-			global::CPF.Android.Resource.Styleable.ColorStateListItem_alpha = global::AndroidTest.Resource.Styleable.ColorStateListItem_alpha;
-			global::CPF.Android.Resource.Styleable.ColorStateListItem_android_alpha = global::AndroidTest.Resource.Styleable.ColorStateListItem_android_alpha;
-			global::CPF.Android.Resource.Styleable.ColorStateListItem_android_color = global::AndroidTest.Resource.Styleable.ColorStateListItem_android_color;
-			global::CPF.Android.Resource.Styleable.CoordinatorLayout = global::AndroidTest.Resource.Styleable.CoordinatorLayout;
-			global::CPF.Android.Resource.Styleable.CoordinatorLayout_keylines = global::AndroidTest.Resource.Styleable.CoordinatorLayout_keylines;
-			global::CPF.Android.Resource.Styleable.CoordinatorLayout_Layout = global::AndroidTest.Resource.Styleable.CoordinatorLayout_Layout;
-			global::CPF.Android.Resource.Styleable.CoordinatorLayout_Layout_android_layout_gravity = global::AndroidTest.Resource.Styleable.CoordinatorLayout_Layout_android_layout_gravity;
-			global::CPF.Android.Resource.Styleable.CoordinatorLayout_Layout_layout_anchor = global::AndroidTest.Resource.Styleable.CoordinatorLayout_Layout_layout_anchor;
-			global::CPF.Android.Resource.Styleable.CoordinatorLayout_Layout_layout_anchorGravity = global::AndroidTest.Resource.Styleable.CoordinatorLayout_Layout_layout_anchorGravity;
-			global::CPF.Android.Resource.Styleable.CoordinatorLayout_Layout_layout_behavior = global::AndroidTest.Resource.Styleable.CoordinatorLayout_Layout_layout_behavior;
-			global::CPF.Android.Resource.Styleable.CoordinatorLayout_Layout_layout_dodgeInsetEdges = global::AndroidTest.Resource.Styleable.CoordinatorLayout_Layout_layout_dodgeInsetEdges;
-			global::CPF.Android.Resource.Styleable.CoordinatorLayout_Layout_layout_insetEdge = global::AndroidTest.Resource.Styleable.CoordinatorLayout_Layout_layout_insetEdge;
-			global::CPF.Android.Resource.Styleable.CoordinatorLayout_Layout_layout_keyline = global::AndroidTest.Resource.Styleable.CoordinatorLayout_Layout_layout_keyline;
-			global::CPF.Android.Resource.Styleable.CoordinatorLayout_statusBarBackground = global::AndroidTest.Resource.Styleable.CoordinatorLayout_statusBarBackground;
-			global::CPF.Android.Resource.Styleable.FontFamily = global::AndroidTest.Resource.Styleable.FontFamily;
-			global::CPF.Android.Resource.Styleable.FontFamilyFont = global::AndroidTest.Resource.Styleable.FontFamilyFont;
-			global::CPF.Android.Resource.Styleable.FontFamilyFont_android_font = global::AndroidTest.Resource.Styleable.FontFamilyFont_android_font;
-			global::CPF.Android.Resource.Styleable.FontFamilyFont_android_fontStyle = global::AndroidTest.Resource.Styleable.FontFamilyFont_android_fontStyle;
-			global::CPF.Android.Resource.Styleable.FontFamilyFont_android_fontVariationSettings = global::AndroidTest.Resource.Styleable.FontFamilyFont_android_fontVariationSettings;
-			global::CPF.Android.Resource.Styleable.FontFamilyFont_android_fontWeight = global::AndroidTest.Resource.Styleable.FontFamilyFont_android_fontWeight;
-			global::CPF.Android.Resource.Styleable.FontFamilyFont_android_ttcIndex = global::AndroidTest.Resource.Styleable.FontFamilyFont_android_ttcIndex;
-			global::CPF.Android.Resource.Styleable.FontFamilyFont_font = global::AndroidTest.Resource.Styleable.FontFamilyFont_font;
-			global::CPF.Android.Resource.Styleable.FontFamilyFont_fontStyle = global::AndroidTest.Resource.Styleable.FontFamilyFont_fontStyle;
-			global::CPF.Android.Resource.Styleable.FontFamilyFont_fontVariationSettings = global::AndroidTest.Resource.Styleable.FontFamilyFont_fontVariationSettings;
-			global::CPF.Android.Resource.Styleable.FontFamilyFont_fontWeight = global::AndroidTest.Resource.Styleable.FontFamilyFont_fontWeight;
-			global::CPF.Android.Resource.Styleable.FontFamilyFont_ttcIndex = global::AndroidTest.Resource.Styleable.FontFamilyFont_ttcIndex;
-			global::CPF.Android.Resource.Styleable.FontFamily_fontProviderAuthority = global::AndroidTest.Resource.Styleable.FontFamily_fontProviderAuthority;
-			global::CPF.Android.Resource.Styleable.FontFamily_fontProviderCerts = global::AndroidTest.Resource.Styleable.FontFamily_fontProviderCerts;
-			global::CPF.Android.Resource.Styleable.FontFamily_fontProviderFetchStrategy = global::AndroidTest.Resource.Styleable.FontFamily_fontProviderFetchStrategy;
-			global::CPF.Android.Resource.Styleable.FontFamily_fontProviderFetchTimeout = global::AndroidTest.Resource.Styleable.FontFamily_fontProviderFetchTimeout;
-			global::CPF.Android.Resource.Styleable.FontFamily_fontProviderPackage = global::AndroidTest.Resource.Styleable.FontFamily_fontProviderPackage;
-			global::CPF.Android.Resource.Styleable.FontFamily_fontProviderQuery = global::AndroidTest.Resource.Styleable.FontFamily_fontProviderQuery;
-			global::CPF.Android.Resource.Styleable.GradientColor = global::AndroidTest.Resource.Styleable.GradientColor;
-			global::CPF.Android.Resource.Styleable.GradientColorItem = global::AndroidTest.Resource.Styleable.GradientColorItem;
-			global::CPF.Android.Resource.Styleable.GradientColorItem_android_color = global::AndroidTest.Resource.Styleable.GradientColorItem_android_color;
-			global::CPF.Android.Resource.Styleable.GradientColorItem_android_offset = global::AndroidTest.Resource.Styleable.GradientColorItem_android_offset;
-			global::CPF.Android.Resource.Styleable.GradientColor_android_centerColor = global::AndroidTest.Resource.Styleable.GradientColor_android_centerColor;
-			global::CPF.Android.Resource.Styleable.GradientColor_android_centerX = global::AndroidTest.Resource.Styleable.GradientColor_android_centerX;
-			global::CPF.Android.Resource.Styleable.GradientColor_android_centerY = global::AndroidTest.Resource.Styleable.GradientColor_android_centerY;
-			global::CPF.Android.Resource.Styleable.GradientColor_android_endColor = global::AndroidTest.Resource.Styleable.GradientColor_android_endColor;
-			global::CPF.Android.Resource.Styleable.GradientColor_android_endX = global::AndroidTest.Resource.Styleable.GradientColor_android_endX;
-			global::CPF.Android.Resource.Styleable.GradientColor_android_endY = global::AndroidTest.Resource.Styleable.GradientColor_android_endY;
-			global::CPF.Android.Resource.Styleable.GradientColor_android_gradientRadius = global::AndroidTest.Resource.Styleable.GradientColor_android_gradientRadius;
-			global::CPF.Android.Resource.Styleable.GradientColor_android_startColor = global::AndroidTest.Resource.Styleable.GradientColor_android_startColor;
-			global::CPF.Android.Resource.Styleable.GradientColor_android_startX = global::AndroidTest.Resource.Styleable.GradientColor_android_startX;
-			global::CPF.Android.Resource.Styleable.GradientColor_android_startY = global::AndroidTest.Resource.Styleable.GradientColor_android_startY;
-			global::CPF.Android.Resource.Styleable.GradientColor_android_tileMode = global::AndroidTest.Resource.Styleable.GradientColor_android_tileMode;
-			global::CPF.Android.Resource.Styleable.GradientColor_android_type = global::AndroidTest.Resource.Styleable.GradientColor_android_type;
-			global::CPF.Android.Resource.Xml.xamarin_essentials_fileprovider_file_paths = global::AndroidTest.Resource.Xml.xamarin_essentials_fileprovider_file_paths;
 			global::Xamarin.Essentials.Resource.Attribute.alpha = global::AndroidTest.Resource.Attribute.alpha;
 			global::Xamarin.Essentials.Resource.Attribute.coordinatorLayoutStyle = global::AndroidTest.Resource.Attribute.coordinatorLayoutStyle;
 			global::Xamarin.Essentials.Resource.Attribute.font = global::AndroidTest.Resource.Attribute.font;
@@ -2374,79 +2171,46 @@ namespace AndroidTest
 			public const int btn_radio_on_to_off_mtrl_animation = 2131099741;
 			
 			// aapt resource value: 0x7F06005E
-			public const int filedialog_folder_l = 2131099742;
+			public const int notification_action_background = 2131099742;
 			
 			// aapt resource value: 0x7F06005F
-			public const int filedialog_folder_m = 2131099743;
+			public const int notification_bg = 2131099743;
 			
 			// aapt resource value: 0x7F060060
-			public const int filedialog_folder_s = 2131099744;
+			public const int notification_bg_low = 2131099744;
 			
 			// aapt resource value: 0x7F060061
-			public const int filedialog_folder_up_l = 2131099745;
+			public const int notification_bg_low_normal = 2131099745;
 			
 			// aapt resource value: 0x7F060062
-			public const int filedialog_folder_up_m = 2131099746;
+			public const int notification_bg_low_pressed = 2131099746;
 			
 			// aapt resource value: 0x7F060063
-			public const int filedialog_folder_up_s = 2131099747;
+			public const int notification_bg_normal = 2131099747;
 			
 			// aapt resource value: 0x7F060064
-			public const int filedialog_root_l = 2131099748;
+			public const int notification_bg_normal_pressed = 2131099748;
 			
 			// aapt resource value: 0x7F060065
-			public const int filedialog_root_m = 2131099749;
+			public const int notification_icon_background = 2131099749;
 			
 			// aapt resource value: 0x7F060066
-			public const int filedialog_root_s = 2131099750;
+			public const int notification_template_icon_bg = 2131099750;
 			
 			// aapt resource value: 0x7F060067
-			public const int ic_about = 2131099751;
+			public const int notification_template_icon_low_bg = 2131099751;
 			
 			// aapt resource value: 0x7F060068
-			public const int ic_launcher = 2131099752;
+			public const int notification_tile_bg = 2131099752;
 			
 			// aapt resource value: 0x7F060069
-			public const int notification_action_background = 2131099753;
+			public const int notify_panel_notification_icon_bg = 2131099753;
 			
 			// aapt resource value: 0x7F06006A
-			public const int notification_bg = 2131099754;
+			public const int tooltip_frame_dark = 2131099754;
 			
 			// aapt resource value: 0x7F06006B
-			public const int notification_bg_low = 2131099755;
-			
-			// aapt resource value: 0x7F06006C
-			public const int notification_bg_low_normal = 2131099756;
-			
-			// aapt resource value: 0x7F06006D
-			public const int notification_bg_low_pressed = 2131099757;
-			
-			// aapt resource value: 0x7F06006E
-			public const int notification_bg_normal = 2131099758;
-			
-			// aapt resource value: 0x7F06006F
-			public const int notification_bg_normal_pressed = 2131099759;
-			
-			// aapt resource value: 0x7F060070
-			public const int notification_icon_background = 2131099760;
-			
-			// aapt resource value: 0x7F060071
-			public const int notification_template_icon_bg = 2131099761;
-			
-			// aapt resource value: 0x7F060072
-			public const int notification_template_icon_low_bg = 2131099762;
-			
-			// aapt resource value: 0x7F060073
-			public const int notification_tile_bg = 2131099763;
-			
-			// aapt resource value: 0x7F060074
-			public const int notify_panel_notification_icon_bg = 2131099764;
-			
-			// aapt resource value: 0x7F060075
-			public const int tooltip_frame_dark = 2131099765;
-			
-			// aapt resource value: 0x7F060076
-			public const int tooltip_frame_light = 2131099766;
+			public const int tooltip_frame_light = 2131099755;
 			
 			static Drawable()
 			{
@@ -3334,46 +3098,22 @@ namespace AndroidTest
 			public const int app_name = 2131492892;
 			
 			// aapt resource value: 0x7F0C001D
-			public const int btn_cancel = 2131492893;
+			public const int copy_toast_msg = 2131492893;
 			
 			// aapt resource value: 0x7F0C001E
-			public const int btn_ok = 2131492894;
+			public const int fallback_menu_item_copy_link = 2131492894;
 			
 			// aapt resource value: 0x7F0C001F
-			public const int copy_toast_msg = 2131492895;
+			public const int fallback_menu_item_open_in_browser = 2131492895;
 			
 			// aapt resource value: 0x7F0C0020
-			public const int fallback_menu_item_copy_link = 2131492896;
+			public const int fallback_menu_item_share_link = 2131492896;
 			
 			// aapt resource value: 0x7F0C0021
-			public const int fallback_menu_item_open_in_browser = 2131492897;
+			public const int search_menu_title = 2131492897;
 			
 			// aapt resource value: 0x7F0C0022
-			public const int fallback_menu_item_share_link = 2131492898;
-			
-			// aapt resource value: 0x7F0C0023
-			public const int hello_world = 2131492899;
-			
-			// aapt resource value: 0x7F0C0024
-			public const int search_menu_title = 2131492900;
-			
-			// aapt resource value: 0x7F0C0025
-			public const int status_bar_notification_info_overflow = 2131492901;
-			
-			// aapt resource value: 0x7F0C0026
-			public const int tag_fragment_FileSave = 2131492902;
-			
-			// aapt resource value: 0x7F0C0027
-			public const int tag_fragment_FileSelect = 2131492903;
-			
-			// aapt resource value: 0x7F0C0028
-			public const int tag_save_hint = 2131492904;
-			
-			// aapt resource value: 0x7F0C0029
-			public const int tag_title_OpenFile = 2131492905;
-			
-			// aapt resource value: 0x7F0C002A
-			public const int tag_title_SaveFile = 2131492906;
+			public const int status_bar_notification_info_overflow = 2131492898;
 			
 			static String()
 			{

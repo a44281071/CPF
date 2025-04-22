@@ -1,13 +1,13 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFrameworks>netstandard2.0;net40</TargetFrameworks>
+    <TargetFrameworks>netstandard2.0</TargetFrameworks>
     <Authors>QQ:761716178</Authors>
     <Company>QQ:761716178</Company>
     <Product>QQ:761716178 跨平台UI框架</Product>
     <Description>CPF(Cross platform UI framework) QQ:761716178 跨平台UI框架  http://cpf.cskin.net/</Description>
     <Version>0.9.6.7</Version>
-    <LangVersion>9.0</LangVersion>
+    <LangVersion>12.0</LangVersion>
     <PackageId>Xhm.CPF</PackageId>
     <PackageProjectUrl></PackageProjectUrl>
     <Copyright>Copyright (c) 2020 by http://cpf.cskin.net/</Copyright>
